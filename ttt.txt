@@ -1,0 +1,47 @@
+1) Player X clicked button at (0, 0)
+X _ _ 
+_ _ _ 
+_ _ _ 
+
+Turn: O
+
+2) Player O clicked button at (1, 1)
+X _ _ 
+_ O _ 
+_ _ _ 
+
+Turn: X
+
+3) Player X clicked button at (0, 0)
+3) Player X clicked button at (1, 1)
+3) Player X clicked button at (0, 2)
+X _ X 
+_ O _ 
+_ _ _ 
+
+Turn: O
+
+4) Player O clicked button at (1, 1)
+4) Player O clicked button at (0, 2)
+4) Player O clicked button at (0, 1)
+X O X 
+_ O _ 
+_ _ _ 
+
+Turn: X
+
+5) Player X clicked button at (1, 0)
+X O X 
+X O _ 
+_ _ _ 
+
+Turn: O
+
+6) Player O clicked button at (1, 1)
+6) Player O clicked button at (0, 1)
+6) Player O clicked button at (2, 1)
+X O X 
+X O _ 
+_ O _ 
+
+O Won
